@@ -1,0 +1,6 @@
+_work/
+build/
+tr/ref/
+*.nsp
+*.zip
+__pycache__/

@@ -1,0 +1,20 @@
+{
+ "title_caution_01": "이 게임은 데이터를 저장하거나\r\n불러오는 중에\r\n아래와 같은 아이콘이 표시될 수 있습니다.",
+ "title_caution_02_switch": "아이콘이 화면에 표시되어 있는 동안에는\r\nNintendo Switch 본체의 전원을 끄지 마십시오.",
+ "title_start": "START",
+ "title_kenri_01": "©CAPCOM CO., LTD. 2018 ALL RIGHTS RESERVED.",
+ "title_menu_2": "- MODE -",
+ "title_veryeasy": "NEWCOMER",
+ "title_easy": "ADVANCED",
+ "title_normal": "ORIGINAL SPEC.",
+ "title_hard": "EXPERT",
+ "title_veryeasy_txt": "록맨 시리즈를 처음 플레이하는 분께 추천합니다.",
+ "title_easy_txt": "오랜만에 록맨을 플레이하는 분께 추천합니다.",
+ "title_normal_txt": "지금도 현역으로 즐기는 플레이어께 추천합니다.",
+ "title_hard_txt": "표준 난이도로는 성에 차지 않는 분께 추천합니다.",
+ "ra_co06": "닉네임",
+ "trial_dl_item": "체험판 특전 아이템을 받으시겠습니까?\r\n아이템은 한 번만 받을 수 있습니다.\r\n( 받은 아이템은 SUB MENU에서 확인할 수 있습니다. )\r\n\r\n<LI> Yes </LI>　　　<LI> No </LI>",
+ "ranking_guide_1": "<ICON PAD_AUD> 선택     <ICON PAD_ALR> 전환     <B_DE> 결정     <B_CA> 돌아가기",
+ "ranking_guide_3": "<ICON PAD_AUD> 선택     <B_DE> 리플레이     <ICON PAD_X> 내 랭킹     <B_CA> 돌아가기",
+ "ranking_guide_5": "<ICON PAD_AUD> 선택     <ICON PAD_X> 내 랭킹     <B_CA> 돌아가기"
+}
